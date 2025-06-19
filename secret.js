@@ -18,6 +18,9 @@
         case 'cheat':
           console.log('💣 You found the cheat code');
           break;
+        case 'test':
+          console.log('💣 You found the test code');
+          break;
         default:
           console.log('❌ Incorrect input');
       }
