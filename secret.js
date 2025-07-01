@@ -40,7 +40,7 @@
           console.log('💣 You found the cheat code');
           break;
         case 'cyrus':
-          console.log('hey man. I thought you might find this. this is kind of ruining the fun don't you think? I'll give you a hint if you want a hint. just come to me and tell me this is too hard. hints will be given. to anyone btw, not just Cy.');
+          console.log('hey man. I thought you might find this. This is kind of ruining the fun dont you think? I will give you a hint if you want a hint. Just come to me and tell me this is too hard. Hints will be given. to anyone btw, not just Cy.');
           break;
         case 'cia':
           console.log('💣 You found the cheat code');
