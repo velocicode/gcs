@@ -52,7 +52,7 @@
           console.log('hey man. I thought you might find this. This is kind of ruining the fun dont you think? I will give you a hint if you want a hint. Just come to me and tell me this is too hard. Hints will be given. to anyone btw, not just Cy.');
           break;
         case 'cia':
-          console.log('💣 You found the cheat code');
+          console.log('	Bhdk wklv lv qrw lw. nhhs wublqj wkr. brx duh suredeob jhwwlqj forvhu! khuh lv wkh wklqj, L kdyh klgghq ghwdlov, klqwv, dqg foxhv lq sodfhv brx pljkw qrw wklqn wr orrn. orrn wkhuh!');
           break;
         case 'meredith':
           console.log('Ghdg gursv duh fryhuw orfdwlrqv lq wkh uhdo zruog wkdw duh xqprqlwruhg, dw ohdvw lq wkhrub. Brx fdq xvh wkhp wr ohdyh lqwho dqg pdwhuldo iru frqwdfwv. Xvxdoob d vhsdudwh pdunhu lv pdgh lq sxeolf wr qrwh wkdw wkhuh lv dq lwhp zdlwlqj dw wkh ghdg gurs wr eh slfnhg xs. Wklv fdq eh dqbwklqj wkdw kdv ehhq djuhhg wr lq wkh sdvw. Wkh pdunhu lv pdgh zlwk vrphwklqj lqqrfxrxv wkdw zloo eh ljqruhg eb prvw shrsoh. D vlqjoh orj lq d iluhsodfh iru shukdsv.');
