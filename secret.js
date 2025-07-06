@@ -21,6 +21,12 @@
         case 'lakehouse':
           console.log('💣 You found the cheat code');
           break;
+        case 'wlohlwtkl':
+          console.log('Ohdylqj lqwho dqg pdwhuldo iru frqwdfwv lv gliilfxow dqg gdqjhurxv. Dvvxplqj brx jrw wklv idu, krz gr L jhw brx brxu edgjhv? Nqrzlqj wkdw L fdq wuxvw brx lv wkh iluvw sduw. Holplqdwlqj ulvn lv wkh vhfrqg.');
+          console.log('Vrphwlphv pdwhuldo dqg lqwhooljhqfh fdq eh ohiw yld ghdg gursv. Kdylqj d sodfh rxw lq wkh zruog zkhuh brx fdq ohdyh vrphwklqj lv qhfhvvdub. Hawuhphob gdqjhurxv, exw vrphwlphv qhfhvvdub. Ghdg gursv duh d zdb wr dffrpsolvk wklv. ');
+          console.log(' ');
+          console.log('Ghdg gursv duh vhfuhw exw xqvhfxuhg sodfhv rxw lq wkh uhdo zruog. Sodfhv wkdw prvw shrsoh zrxog qrw nqrz wr fkhfn. Vslhv fdq ohdyh rqh-dqrwkhu zkdwhyhu wkhb qhhg lq wkhp. D vhsdudwh pdunhu lv ohiw lq d gliihuhqw sodfh wr lqglfdwh wkdw dq lwhp kdv ehhq sodfhg lq wkh ghdg gurs. Wkdw vhshudwh pdunhu lv vrphwklqj lqqrfxrxv dqg ljqrudeoh, d vlqjoh orj lq d iluhsodfh shukdsv.');
+          break;
         case 'bad manners':
           console.log('💣 You found the cheat code');
           break;
@@ -36,8 +42,11 @@
         case 'sante fe':
           console.log('💣 You found the cheat code');
           break;
-        case 'cia':
-          console.log('💣 You found the cheat code');
+        case 'wlohlwtkl tnw':
+          console.log('Ohdylqj lqwho dqg pdwhuldo iru frqwdfwv lv gliilfxow dqg gdqjhurxv. Dvvxplqj brx jrw wklv idu, krz gr L jhw brx brxu edgjhv? Nqrzlqj wkdw L fdq wuxvw brx lv wkh iluvw sduw. Holplqdwlqj ulvn lv wkh vhfrqg.');
+          console.log('Vrphwlphv pdwhuldo dqg lqwhooljhqfh fdq eh ohiw yld ghdg gursv. Kdylqj d sodfh rxw lq wkh zruog zkhuh brx fdq ohdyh vrphwklqj lv qhfhvvdub. Hawuhphob gdqjhurxv, exw vrphwlphv qhfhvvdub. Ghdg gursv duh d zdb wr dffrpsolvk wklv. ');
+          console.log(' ');
+          console.log('Ghdg gursv duh vhfuhw exw xqvhfxuhg sodfhv rxw lq wkh uhdo zruog. Sodfhv wkdw prvw shrsoh zrxog qrw nqrz wr fkhfn. Vslhv fdq ohdyh rqh-dqrwkhu zkdwhyhu wkhb qhhg lq wkhp. D vhsdudwh pdunhu lv ohiw lq d gliihuhqw sodfh wr lqglfdwh wkdw dq lwhp kdv ehhq sodfhg lq wkh ghdg gurs. Wkdw vhshudwh pdunhu lv vrphwklqj lqqrfxrxv dqg ljqrudeoh, d vlqjoh orj lq d iluhsodfh shukdsv.');
           break;
         case 'cyrus':
           console.log('hey man. I thought you might find this. This is kind of ruining the fun dont you think? I will give you a hint if you want a hint. Just come to me and tell me this is too hard. Hints will be given. to anyone btw, not just Cy.');
