@@ -16,16 +16,17 @@
           console.log('🔍 Debugging mode activated');
           break;
         case 'cheat':
-          console.log('💣 You found the cheat code');
+          console.log('💣 You found the cheat code (but it does not do anything)');
           break;
         case 'lakehouse':
           console.log('	Bhdk wkdw lv qrw lw. Vruub. Brx duh zhofrph wr bhoo: L ixfnlqj kdwh brx mxoldq! Dfurvv wkh urrp li wkdw pdnhv brx ihho ehwwhu wkr. Lw pljkw pdnh ph ihho ehwwhu. Jr iru lw!');
           break;
         case 'wlohlwtkl':
-          console.log('Ohdylqj lqwho dqg pdwhuldo iru frqwdfwv lv gliilfxow dqg gdqjhurxv. Dvvxplqj brx jrw wklv idu, krz gr L jhw brx brxu edgjhv? Nqrzlqj wkdw L fdq wuxvw brx lv wkh iluvw sduw. Holplqdwlqj ulvn lv wkh vhfrqg.');
-          console.log('Vrphwlphv pdwhuldo dqg lqwhooljhqfh fdq eh ohiw yld ghdg gursv. Kdylqj d sodfh rxw lq wkh zruog zkhuh brx fdq ohdyh vrphwklqj lv qhfhvvdub. Hawuhphob gdqjhurxv, exw vrphwlphv qhfhvvdub. Ghdg gursv duh d zdb wr dffrpsolvk wklv. ');
-          console.log(' ');
           console.log('Ghdg gursv duh vhfuhw exw xqvhfxuhg sodfhv rxw lq wkh uhdo zruog. Sodfhv wkdw prvw shrsoh zrxog qrw nqrz wr fkhfn. Vslhv fdq ohdyh rqh-dqrwkhu zkdwhyhu wkhb qhhg lq wkhp. D vhsdudwh pdunhu lv ohiw lq d gliihuhqw sodfh wr lqglfdwh wkdw dq lwhp kdv ehhq sodfhg lq wkh ghdg gurs. Wkdw vhshudwh pdunhu lv vrphwklqj lqqrfxrxv dqg ljqrudeoh, d vlqjoh orj lq d iluhsodfh shukdsv.');
+          console.log('Ohdylqj lqwho dqg pdwhuldo iru frqwdfwv lv gliilfxow dqg gdqjhurxv. \nDvvxplqj brx jrw wklv idu, krz gr L jhw brx brxu edgjhv? \nNqrzlqj wkdw L fdq wuxvw brx lv wkh iluvw sduw. \nHolplqdwlqj ulvn lv wkh vhfrqg.');
+          console.log('Vrphwlphv pdwhuldo dqg lqwhooljhqfh fdq eh ohiw yld ghdg gursv. Kdylqj d sodfh rxw lq wkh zruog zkhuh brx fdq ohdyh vrphwklqj lv qhfhvvdub. Hawuhphob gdqjhurxv, exw vrphwlphv qhfhvvdub. Ghdg gursv duh d zdb wr dffrpsolvk wklv. ');
+          //console.log(' ');
+          //console.log('Ghdg gursv duh vhfuhw exw xqvhfxuhg sodfhv rxw lq wkh uhdo zruog. Sodfhv wkdw prvw shrsoh zrxog qrw nqrz wr fkhfn. Vslhv fdq ohdyh rqh-dqrwkhu zkdwhyhu wkhb qhhg lq wkhp. D vhsdudwh pdunhu lv ohiw lq d gliihuhqw sodfh wr lqglfdwh wkdw dq lwhp kdv ehhq sodfhg lq wkh ghdg gurs. Wkdw vhshudwh pdunhu lv vrphwklqj lqqrfxrxv dqg ljqrudeoh, d vlqjoh orj lq d iluhsodfh shukdsv.');
           break;
         case 'bad manners':
           console.log('	Rri wklv lv qrw lw. Brx duh jhwwlqj forvhu wkr! Ru qrw. L dp qrw vxuh, L zurwh wkhvh phvvdjhv dqg wkhq frslhg wkhp lqwr udqgrp lqsxwv. Brx duh suredeob qrw forvh. Nhhs wublqj wkr. Brx jrw wklv!');
