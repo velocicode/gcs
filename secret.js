@@ -42,7 +42,7 @@
         case 'sante fe':
           console.log('💣 You found the cheat code');
           break;
-        case 'wlohlwtkl tnw':
+        case 'wlohlwtkl tnn':
           console.log('Ohdylqj lqwho dqg pdwhuldo iru frqwdfwv lv gliilfxow dqg gdqjhurxv. Dvvxplqj brx jrw wklv idu, krz gr L jhw brx brxu edgjhv? Nqrzlqj wkdw L fdq wuxvw brx lv wkh iluvw sduw. Holplqdwlqj ulvn lv wkh vhfrqg.');
           console.log('Vrphwlphv pdwhuldo dqg lqwhooljhqfh fdq eh ohiw yld ghdg gursv. Kdylqj d sodfh rxw lq wkh zruog zkhuh brx fdq ohdyh vrphwklqj lv qhfhvvdub. Hawuhphob gdqjhurxv, exw vrphwlphv qhfhvvdub. Ghdg gursv duh d zdb wr dffrpsolvk wklv. ');
           console.log(' ');
