@@ -57,17 +57,17 @@
           console.log('Ghdg gursv duh fryhuw orfdwlrqv lq wkh uhdo zruog wkdw duh xqprqlwruhg, dw ohdvw lq wkhrub. Brx fdq xvh wkhp wr ohdyh lqwho dqg pdwhuldo iru frqwdfwv. Xvxdoob d vhsdudwh pdunhu lv pdgh lq sxeolf wr qrwh wkdw wkhuh lv dq lwhp zdlwlqj dw wkh ghdg gurs wr eh slfnhg xs. Wklv fdq eh dqbwklqj wkdw kdv ehhq djuhhg wr lq wkh sdvw. Wkh pdunhu lv pdgh zlwk vrphwklqj lqqrfxrxv wkdw zloo eh ljqruhg eb prvw shrsoh. D vlqjoh orj lq d iluhsodfh iru shukdsv.');
           break;
         case 'great bridge':
-          console.log('💣 You found the cheat code');
+          console.log('Gr brx zdqw ilvk iru glqqhu? Ehfdxvh brx kdyh fdxjkw d uhg khuulqj!');
           break;
         case 'the great bridge':
-          console.log('💣 You found the cheat code');
+          console.log('Gr brx zdqw ilvk iru glqqhu? Ehfdxvh brx kdyh fdxjkw d uhg khuulqj!');
           break;
         case 'hint':
-          console.log('	Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!');
+          console.log('		Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!!');
           console.log('eat a salad and think about it. You will get it.');
           break;
         case 'help':
-          console.log('	Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!');
+          console.log('		Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!!');
           console.log('eat a salad and think about it. You will get it.');
           break;
         case 'fuck you julian':
