@@ -31,16 +31,16 @@
           console.log('	Rri wklv lv qrw lw. Brx duh jhwwlqj forvhu wkr! Ru qrw. L dp qrw vxuh, L zurwh wkhvh phvvdjhv dqg wkhq frslhg wkhp lqwr udqgrp lqsxwv. Brx duh suredeob qrw forvh. Nhhs wublqj wkr. Brx jrw wklv!');
           break;
         case 'lean in':
-          console.log('💣 You found the cheat code');
+          console.log('Jrrg wub! Qrw lw wkr. Nhhs dw lw!');
           break;
         case 'someone knows my name':
-          console.log('💣 You found the cheat code');
+          console.log('	Wklv errn zdv khdyb. L glg qrw uhdolch krz khdyb xqwlo L vwduwhg xvlqj lw.');
           break;
         case 'fortune teller':
-          console.log('💣 You found the cheat code');
+          console.log('	Brx glg lw! Wklv lv wkh dqvzhu! Oro! Qrsh mxvw nlgglqj. Nhhs wublqj!');
           break;
         case 'santa fe':
-          console.log('💣 You found the cheat code');
+          console.log('	L zdv whpswhg wr sxw wkh obulfv wr “Gr Brx Nqrz Wkh Zdb wr Vdq Mrvh?” khuh. Exw L zdv jrlqj wr fkdqjh “Vdq Mrvh” wr “Vdqwd Ih”. exw lqvwhdg L mxvw zurwh wklv. Vr mxvw lpdjlqh wkdw, L jxhvv. ');
           break;
         case 'wlohlwtkl tnn':
           console.log('Ohdylqj lqwho dqg pdwhuldo iru frqwdfwv lv gliilfxow dqg gdqjhurxv. Dvvxplqj brx jrw wklv idu, krz gr L jhw brx brxu edgjhv? Nqrzlqj wkdw L fdq wuxvw brx lv wkh iluvw sduw. Holplqdwlqj ulvn lv wkh vhfrqg.');
@@ -65,11 +65,11 @@
           break;
         case 'hint':
           console.log('	Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!');
-          console.log('eat a salad and think about it. you will get it.');
+          console.log('eat a salad and think about it. You will get it.');
           break;
         case 'help':
           console.log('	Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!');
-          console.log('eat a salad and think about it. you will get it.');
+          console.log('eat a salad and think about it. You will get it.');
           break;
         case 'fuck you julian':
           console.log('💣 yeah I get it. I suck');
