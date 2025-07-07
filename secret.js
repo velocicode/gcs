@@ -39,7 +39,7 @@
         case 'fortune teller':
           console.log('💣 You found the cheat code');
           break;
-        case 'sante fe':
+        case 'santa fe':
           console.log('💣 You found the cheat code');
           break;
         case 'wlohlwtkl tnn':
@@ -65,9 +65,11 @@
           break;
         case 'hint':
           console.log('	Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!');
+          console.log('eat a salad and think about it. you will get it.');
           break;
         case 'help':
           console.log('	Klqw!? brx zdqw d klqw!? Krz forvhob kdyh brx uhdg wkhvh phvvdjhv? Duh brx uhdglqj wrs wr erwwrp? vwduw dw wkh ehjlqlqj, uhdg wrs wr erwwrp. Brx fdq iljxuh lw rxw!');
+          console.log('eat a salad and think about it. you will get it.');
           break;
         case 'fuck you julian':
           console.log('💣 yeah I get it. I suck');
