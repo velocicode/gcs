@@ -9,7 +9,6 @@
 
       switch (input) {
         case 'bad manners':
-          //console.log('🪄 Secret unlocked!');
           console.log('Hello friend. you are on the right path but this is not a valid input.');
           break;
         case 'debug':
@@ -29,6 +28,9 @@
           break;
         case 'lean in':
           console.log('Jrrg wub! Qrw lw wkr. Nhhs dw lw!');
+          break;
+        case 'htiderem':
+          console.log('Ghdg gursv duh vhfuhw exw xqvhfxuhg sodfhv rxw lq wkh uhdo zruog. Sodfhv wkdw prvw shrsoh zrxog qrw nqrz wr fkhfn. Vslhv fdq ohdyh rqh-dqrwkhu zkdwhyhu wkhb qhhg lq wkhp. D vhsdudwh pdunhu lv ohiw lq d gliihuhqw sodfh wr lqglfdwh wkdw dq lwhp kdv ehhq sodfhg lq wkh ghdg gurs. Wkdw vhshudwh pdunhu lv vrphwklqj lqqrfxrxv dqg ljqrudeoh, d vlqjoh orj lq d iluhsodfh shukdsv. \nOhdylqj lqwho dqg pdwhuldo iru frqwdfwv lv gliilfxow dqg gdqjhurxv. \nDvvxplqj brx jrw wklv idu, krz gr L jhw brx brxu edgjhv? \nNqrzlqj wkdw L fdq wuxvw brx lv wkh iluvw sduw. \nHolplqdwlqj ulvn lv wkh vhfrqg.\nVrphwlphv pdwhuldo dqg lqwhooljhqfh fdq eh ohiw yld ghdg gursv. Kdylqj d sodfh rxw lq wkh zruog zkhuh brx fdq ohdyh vrphwklqj lv qhfhvvdub. Hawuhphob gdqjhurxv, exw vrphwlphv qhfhvvdub. Ghdg gursv duh d zdb wr dffrpsolvk wklv. ');
           break;
         case 'someone knows my name':
           console.log('	Wklv errn zdv khdyb. L glg qrw uhdolch krz khdyb xqwlo L vwduwhg xvlqj lw.');
@@ -72,7 +74,7 @@
           console.log('💣 yeah I get it. I suck');
           break;
         case 'new hampshire':
-          console.log('💣 You found the cheat code');
+          console.log('to broad. narrow it down');
           break;
         default:
           console.log('Khoor, brx kdyh douhdgb ehhq jlyhq wkh sdvvzrug. Brx zloo qhhg wr iljxuh rxw zkdw wkdw lv dqg hqwhu lw khuh. Grlqj vr zloo jlyh brx wkh rxwsxw brx duh orrnlqj iru. Brx duh grlqj juhdw! Brx duh jhwwlqj forvh wr wkh hqg. Nhhslqj brxu edgjhv vdih lv lpsruwdqw. Zh zrxogq’w zdqw wkhp wr idoo lqwr wkh kdqgv ri wkh zurqj shrsoh. Wkhq dqbrqh frxog sodb erdug jdphv zlwk xv. L krsh brx kdyh kdg ixq zlwk wklv jdph. L kdyh kdg ixq pdnlqj lw. Wkrxjk L gr uhdolch wkdw pdnlqj wkh gliilfxowb wkh fruuhfw ohyho lv wkh kdug sduw. Wrr hdvb ru wrr kdug lv hdvb. Mxvw uljkw lv gliilfxow. Ohw xv nqrz li brx hqmrbhg lw vr zh fdq ghflgh li zh zdqw wr gr lw djdlq qhaw bhdu. Wklv kdv wr eh orqj hqrxjk vr wkdw brx kdyh uhihuhqfh srlqwv wr eh deoh wr ghfrgh lw. Li lw lv wrr vkruw lw zloo eh xqghflskhudeoh. Brx vkrxog kdyh vhhq zkdw fkdwjsw wkrxjkw wkh uhvsrqvh wr wkh fruuhfw sdvvzrug vdlg.');
