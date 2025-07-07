@@ -77,7 +77,7 @@
           console.log('to broad. narrow it down');
           break;
         default:
-          console.log('Khoor, brx kdyh douhdgb ehhq jlyhq wkh sdvvzrug. Brx zloo qhhg wr iljxuh rxw zkdw wkdw lv dqg hqwhu lw khuh. Grlqj vr zloo jlyh brx wkh rxwsxw brx duh orrnlqj iru. Brx duh grlqj juhdw! Brx duh jhwwlqj forvh wr wkh hqg. Nhhslqj brxu edgjhv vdih lv lpsruwdqw. Zh zrxogq’w zdqw wkhp wr idoo lqwr wkh kdqgv ri wkh zurqj shrsoh. Wkhq dqbrqh frxog sodb erdug jdphv zlwk xv. L krsh brx kdyh kdg ixq zlwk wklv jdph. L kdyh kdg ixq pdnlqj lw. Wkrxjk L gr uhdolch wkdw pdnlqj wkh gliilfxowb wkh fruuhfw ohyho lv wkh kdug sduw. Wrr hdvb ru wrr kdug lv hdvb. Mxvw uljkw lv gliilfxow. Ohw xv nqrz li brx hqmrbhg lw vr zh fdq ghflgh li zh zdqw wr gr lw djdlq qhaw bhdu. Wklv kdv wr eh orqj hqrxjk vr wkdw brx kdyh uhihuhqfh srlqwv wr eh deoh wr ghfrgh lw. Li lw lv wrr vkruw lw zloo eh xqghflskhudeoh. Brx vkrxog kdyh vhhq zkdw fkdwjsw wkrxjkw wkh uhvsrqvh wr wkh fruuhfw sdvvzrug vdlg.');
+          console.log('Khoor, brx kdyh douhdgb ehhq jlyhq wkh sdvvzrug. Brx zloo qhhg wr iljxuh rxw zkdw wkdw lv dqg lqsxw lw khuh. Grlqj vr zloo jlyh brx wkh rxwsxw brx duh orrnlqj iru. Brx duh grlqj juhdw! Brx duh jhwwlqj forvh wr wkh hqg. Nhhslqj brxu edgjhv vdih lv lpsruwdqw. Zh zrxogq’w zdqw wkhp wr idoo lqwr wkh kdqgv ri wkh zurqj shrsoh. Wkhq dqbrqh frxog sodb erdug jdphv zlwk xv. L krsh brx kdyh kdg ixq zlwk wklv jdph. L kdyh kdg ixq pdnlqj lw. Ohw xv nqrz li brx hqmrbhg lw vr zh fdq ghflgh li zh zdqw wr gr lw djdlq qhaw bhdu.');
       }
 
       inputBox.value = ''; // clears the input field
